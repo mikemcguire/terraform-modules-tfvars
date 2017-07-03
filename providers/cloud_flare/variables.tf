@@ -1,0 +1,2 @@
+variable "email" {}
+variable "token" {}
